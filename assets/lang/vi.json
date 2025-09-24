@@ -79,5 +79,22 @@
   "doh-gas-3": "• Effects/Tag: Hồi máu, Gây sát thương, bùa tăng giảm sát thương, trạng thái choáng, ngã, v.v",
   "localization": "• Bản địa hóa (Đa ngôn ngữ)",
   "deploy-aws": "• Triển khai máy chủ (Dedicated Server) trên Amazon Gamelift (AWS)",
-  "graduation-role": "Đồ án tốt nghiệp cá nhân:"
+  "graduation-role": "Đồ án tốt nghiệp cá nhân:",
+  "dev-role-title": "Unreal Engine Game Developer",
+  "freelance-task-1": "• Phát triển gameplay trong Unreal Engine: xây dựng combat system, hệ thống vũ khí, kỹ năng và AI kẻ địch.",
+  "freelance-task-2": "• Tích hợp nhân vật 3D, animation, Metahuman; xử lý rig, retarget và tối ưu asset.",
+  "freelance-task-3": "• Thiết kế và lập trình UI/HUD, menu, hệ thống nhiệm vụ và lưu/đọc dữ liệu.",
+  "freelance-task-4": "• Tối ưu hóa hiệu suất game, quản lý material/LOD và tạo VFX cơ bản.",
+  "freelance-task-5": "• Debug, fix bug và viết tài liệu hướng dẫn sử dụng hệ thống đã phát triển.",
+  "havoc-core-3": "• Chế độ: Team Death Match, Free For All",
+  "havoc-ui-1": "• Menu chính",
+  "havoc-ui-2": "• Phòng chờ tìm trận",
+  "havoc-ui-3": "• Chọn trang phục cho nhân vật/vũ khí",
+  "havoc-ui-4": "• HUD trong game",
+  "freelance-description": "Đóng góp vào các dự án của nhiều khách hàng cũng như các nguyên mẫu trò chơi cá nhân.",
+  "saiko-core-3": "• Thêm các loại vũ khí trong game: SMG, Sniper",
+  "saiko-core-4": "• Chế độ: Hardpoint, Kill Confirmed, Capture The Flag, Free For All",
+  "nda-explain": "Hiện đang trong quá trình phát triển. Thông tin về dự án không thể chia sẻ bởi vì NDA.",
+  "other-task-1": "• Hệ thống chiến đấu, kho đồ, điều khiển, v.v",
+  "other-task-2": "• Tạo animation cho nhân vật"
 }

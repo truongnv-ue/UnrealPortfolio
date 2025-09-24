@@ -79,5 +79,22 @@
   "doh-gas-3": "• Effects/Tag: Healing, Damage, Attack Damage buff, Stun, Knockdown, etc...",
   "localization": "• Localization (Multilanguage)",
   "deploy-aws": "• Deploy Dedicated Server on Amazon Gamelift (AWS)",
-  "graduation-role": "Personal Graduation Project:"
+  "graduation-role": "Personal Graduation Project:",
+  "dev-role-title": "Unreal Engine Game Developer",
+  "freelance-task-1": "• Developed gameplay systems in Unreal Engine, including combat, weapon mechanics, abilities, and enemy AI.",
+  "freelance-task-2": "• Integrated 3D characters, animations, and Metahuman; handled rigging, retargeting, and asset optimization.",
+  "freelance-task-3": "• Designed and implemented UI/HUD, menus, quest systems, and save/load functionality.",
+  "freelance-task-4": "• Optimized game performance, managed materials/LODs, and created basic VFX.",
+  "freelance-task-5": "• Debugged, fixed issues, and wrote technical documentation for implemented systems.",
+  "havoc-core-3": "• Game Mode: Team Death Match, Free For All",
+  "havoc-ui-1": "• Main menu",
+  "havoc-ui-2": "• Lobby/Matchmaking",
+  "havoc-ui-3": "• Character/Weapon Skin Selection",
+  "havoc-ui-4": "• In-game HUD",
+  "freelance-description": "Contributed to projects for various clients as well as personal game prototypes.",
+  "saiko-core-3": "• Add Weapons: SMG, Sniper",
+  "saiko-core-4": "• Game Mode: Hardpoint, Kill Confirmed, Capture The Flag, Free For All",
+  "nda-explain": "Currently under development. Details and media cannot be shared publicly due to NDA.",
+  "other-task-1": "• Core System: Combat, Inventory, Control, etc...",
+  "other-task-2": "• Animating for Character"
 }
